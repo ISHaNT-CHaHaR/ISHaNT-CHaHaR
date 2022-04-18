@@ -1,4 +1,4 @@
-### HI, I am Ishant Chahar 😄
+### SUP, I am Ishant Chahar 😄
 
 
 **ISHaNT-CHaHaR/ISHaNT-CHaHaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
