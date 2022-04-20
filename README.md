@@ -1,9 +1,9 @@
 ### SUP, I am Ishant Chahar 😄
 
 
-**ISHaNT-CHaHaR/ISHaNT-CHaHaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ISHaNT-CHaHaR/ISHaNT-CHaHaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Data Science and Machine Learning Projects.
 - 🌱 I’m currently learning Python and other ML Algortihms
