@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Python and other ML Algortihms
 - 👯 I’m looking to collaborate on any excellent Comuter Science Research or Projects 
 - 🤔 I’m looking for help with Development, Data Extraction, Cleaning, Surveying, Paper Reading, Report Writing, Research Paper Writing and Presentation.
-- 💬 Ask me about Core Computer Science topics, Blockchain, DDOS Mitigation Research, Graoh Theory or Discrete Maths etc.
+- 💬 Ask me about Core Computer Science topics, Blockchain, DDOS Mitigation Research, Graph Theory or Discrete Maths etc.
 - 📫 How to reach me: Email : chaharishant01@gmail.com
 - ⚡ Fun fact: I have a diversified area of interests in Computer Science and Mathematics and I can learn anything if seems challenging to me.
 <!--
